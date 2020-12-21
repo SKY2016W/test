@@ -14,7 +14,7 @@ pillow 8.0.1 <br>
 
 预处理后的mnist数据:<br>
 
-![preprocess](https://github.com/SKY2016W/test/blob/master/img/preprocess.png)
+![preprocess](https://hub.fastgit.org/SKY2016W/test/blob/master/img/preprocess.png)
 
 预测结果:<br>
 
