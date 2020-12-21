@@ -11,3 +11,14 @@ pillow 8.0.1 <br>
 原始mnist数据:<br>
 
 ![raw](https://github.com/SKY2016W/test/blob/master/img/raw.png)
+
+预处理后的mnist数据:<br>
+
+![preprocess](https://github.com/SKY2016W/test/blob/master/img/preprocess.png)
+
+预测结果:<br>
+
+![result](https://github.com/SKY2016W/test/blob/master/img/result.png)
+
+### 使用方法
+在jupyter notebook中打开运行
