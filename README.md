@@ -8,5 +8,6 @@ matplotlib 3.1.1 <br>
 pillow 8.0.1 <br>
 
 ### 实验结果
-原始mnist数据<br>
-![](https://github.com/SKY2016W/test/blob/master/img/raw.png)
+原始mnist数据:<br>
+![]
+(https://github.com/SKY2016W/test/blob/master/img/raw.png)
