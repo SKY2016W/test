@@ -9,6 +9,6 @@ pillow 8.0.1 <br>
 
 ### 实验结果
 原始mnist数据:<br>
-![](http://www.baidu.com/img/bdlogo.gif)  
-![]
-(https://github.com/SKY2016W/test/blob/master/img/raw.png)
+
+![image](http://www.baidu.com/img/bdlogo.gif)  
+
