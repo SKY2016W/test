@@ -2,9 +2,9 @@
 朴素贝叶斯实现mnist手写数字识别
 
 ### 实验环境
-python 3.6.9
-numpy 1.17.2
-matplotlib 3.1.1
-pillow 8.0.1
+python 3.6.9 <br>
+numpy 1.17.2 <br>
+matplotlib 3.1.1 <br>
+pillow 8.0.1 <br>
 
 ### 实验结果
